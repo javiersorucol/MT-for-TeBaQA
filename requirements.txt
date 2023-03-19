@@ -1,0 +1,6 @@
+fastapi==0.95.0
+uvicorn==0.21.1
+transformers==4.27.1
+sacremoses==0.0.53
+tensorflow==2.11.0
+sentencepiece==0.1.97
